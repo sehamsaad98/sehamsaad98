@@ -46,8 +46,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
 ---
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehamsaad98&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats-bice-chi-54.vercel.app/api/top-langs?username=sehamsaad98&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 <br><br><br><br><br><br><br>
 
